@@ -1,1 +1,2 @@
-This is a basic CRUD application
+There are some basic CRUD applications usikng Django
+
